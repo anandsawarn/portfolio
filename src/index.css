@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@theme {
+  --background-custom-blue: #1E40AF;
+  --background-custom-pattern: url('/path-to-your-image.jpg');
+}
+*{
+  scroll-behavior: smooth;
+}
