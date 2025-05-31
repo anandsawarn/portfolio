@@ -31,8 +31,8 @@ const Footer = () => {
         </li>
         <li className="flex gap-1 items-center">
           <FaGithub />
-          <a href="https://github.com/username" target="_blank" rel="noopener noreferrer">
-            github.com/username
+          <a href="https://github.com/anandsawarn" target="_blank" rel="noopener noreferrer">
+            github.com/anandsawarn
           </a>
         </li>
       </ul>
